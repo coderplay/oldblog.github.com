@@ -1,0 +1,14 @@
+Configuration file: /home/mzhou/code/freshman21/_config.yml
+            Source: /home/mzhou/code/freshman21
+       Destination: /home/mzhou/code/freshman21/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled for '/home/mzhou/code/freshman21'
+Configuration file: /home/mzhou/code/freshman21/_config.yml
+    Server address: http://127.0.0.1:4000/freshman21/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2015-06-01 15:12:48 ...done in 2.066331066 seconds.
+      Regenerating: 3 file(s) changed at 2015-06-01 15:30:12 ...done in 1.970408239 seconds.
+      Regenerating: 1 file(s) changed at 2015-06-01 15:31:10 ...done in 1.959531398 seconds.
+      Regenerating: 1 file(s) changed at 2015-06-01 15:32:58 ...done in 1.983825856 seconds.
+      Regenerating: 3 file(s) changed at 2015-06-01 15:35:47 ...done in 1.988892078 seconds.
