@@ -3,8 +3,8 @@
 	<channel>
 		<title>Everything Can Be Distributed</title>
 		<description>a blog built on raspberry pi</description>
-		<link>http://blog.minzhou.info/</link>
-		<atom:link href="http://blog.minzhou.info//feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://blog.minzhou.info</link>
+		<atom:link href="http://blog.minzhou.info/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Jekyll Clean Theme</title>
@@ -67,7 +67,7 @@ sitting in an &lt;strong&gt;old-master&lt;/strong&gt; branch that I can refer to
 &lt;h1 id=&quot;license&quot;&gt;License&lt;/h1&gt;
 
 &lt;p&gt;The content of this theme is distributed and licensed under a
-&lt;img src=&quot;//images/cc_by_88x31.png&quot; alt=&quot;License Badge&quot;&gt;
+&lt;img src=&quot;/images/cc_by_88x31.png&quot; alt=&quot;License Badge&quot;&gt;
 &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/legalcode&quot;&gt;Creative Commons Attribution 4.0 License&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;This license lets others distribute, remix, tweak, and build upon your work,
 even commercially, as long as they credit you for the original creation. This
@@ -89,8 +89,8 @@ respective owners:&lt;/p&gt;
 &lt;/ul&gt;
 </description>
 				<pubDate>Fri, 22 Aug 2014 16:25:06 -0700</pubDate>
-				<link>http://blog.minzhou.info//2014/08/jekyll-clean-theme</link>
-				<guid isPermaLink="true">http://blog.minzhou.info//2014/08/jekyll-clean-theme</guid>
+				<link>http://blog.minzhou.info/2014/08/jekyll-clean-theme</link>
+				<guid isPermaLink="true">http://blog.minzhou.info/2014/08/jekyll-clean-theme</guid>
 			</item>
 		
 			<item>
@@ -102,8 +102,8 @@ respective owners:&lt;/p&gt;
 &lt;p&gt;Integer at viverra turpis. Duis aliquam mattis sapien tempor eleifend. Mauris nec eleifend risus, quis mollis neque. Vivamus non dapibus justo, vel ornare magna. Nunc in nulla venenatis, imperdiet diam in, accumsan massa. Etiam congue augue ipsum, sit amet rutrum nisi blandit quis. Cras in lectus non lorem auctor consequat a vel sem. Aliquam erat volutpat. Fusce lobortis vel orci vitae ullamcorper. Phasellus id eleifend eros. Mauris vulputate, nisi vel auctor auctor, quam enim tincidunt felis, vitae fermentum odio tortor eget est. Integer ornare blandit lectus a accumsan.&lt;/p&gt;
 </description>
 				<pubDate>Tue, 22 Jul 2014 16:25:06 -0700</pubDate>
-				<link>http://blog.minzhou.info//2014/07/Lorem-ipsum-dolor-sit-amet</link>
-				<guid isPermaLink="true">http://blog.minzhou.info//2014/07/Lorem-ipsum-dolor-sit-amet</guid>
+				<link>http://blog.minzhou.info/2014/07/Lorem-ipsum-dolor-sit-amet</link>
+				<guid isPermaLink="true">http://blog.minzhou.info/2014/07/Lorem-ipsum-dolor-sit-amet</guid>
 			</item>
 		
 			<item>
@@ -115,8 +115,8 @@ respective owners:&lt;/p&gt;
 &lt;p&gt;Praesent sit amet auctor justo. Suspendisse pretium rutrum vehicula. Cras ut porta urna. Morbi massa odio, eleifend vitae dictum eget, mattis nec metus. Praesent pellentesque metus eu massa pharetra facilisis. Suspendisse potenti. Vestibulum pellentesque pharetra tristique. Nam ut lobortis felis. Proin sit amet consequat ipsum. Curabitur et mattis justo, sit amet feugiat lectus. Sed eleifend eget arcu non pretium. Suspendisse rhoncus erat quis leo laoreet rhoncus. Aliquam quis metus vitae enim cursus sodales. In euismod tortor id odio fermentum, non pretium ipsum iaculis. Quisque consectetur elementum nisi, et posuere odio vulputate ac. Ut consequat, velit eget fermentum ultrices, ligula odio fringilla diam, sit amet accumsan elit velit tempus dolor.&lt;/p&gt;
 </description>
 				<pubDate>Sun, 22 Jun 2014 16:25:06 -0700</pubDate>
-				<link>http://blog.minzhou.info//2014/06/Maecenas-feugiat-fringilla-nibh</link>
-				<guid isPermaLink="true">http://blog.minzhou.info//2014/06/Maecenas-feugiat-fringilla-nibh</guid>
+				<link>http://blog.minzhou.info/2014/06/Maecenas-feugiat-fringilla-nibh</link>
+				<guid isPermaLink="true">http://blog.minzhou.info/2014/06/Maecenas-feugiat-fringilla-nibh</guid>
 			</item>
 		
 			<item>
@@ -128,8 +128,8 @@ respective owners:&lt;/p&gt;
 &lt;p&gt;Integer aliquam tellus vel libero eleifend, condimentum euismod odio tincidunt. Vivamus felis ante, faucibus quis urna nec, volutpat pulvinar quam. Cras dictum libero ac augue bibendum, et pretium ex pharetra. Vivamus suscipit et erat id eleifend. Proin vulputate, quam sit amet pretium fermentum, felis neque scelerisque metus, a rhoncus quam nisi sit amet urna. Sed et commodo libero, laoreet rutrum eros. Vivamus tempor, leo eget scelerisque molestie, sapien augue viverra tortor, et semper arcu eros ut elit. Sed pulvinar ipsum in semper facilisis.&lt;/p&gt;
 </description>
 				<pubDate>Sat, 22 Jun 2013 16:25:06 -0700</pubDate>
-				<link>http://blog.minzhou.info//2013/06/Cum-sociis-natoque-penatibus</link>
-				<guid isPermaLink="true">http://blog.minzhou.info//2013/06/Cum-sociis-natoque-penatibus</guid>
+				<link>http://blog.minzhou.info/2013/06/Cum-sociis-natoque-penatibus</link>
+				<guid isPermaLink="true">http://blog.minzhou.info/2013/06/Cum-sociis-natoque-penatibus</guid>
 			</item>
 		
 			<item>
@@ -141,8 +141,8 @@ respective owners:&lt;/p&gt;
 &lt;p&gt;Aliquam molestie urna at turpis venenatis, et placerat lorem volutpat. Sed gravida arcu id lectus viverra eleifend. Sed in metus sit amet ante luctus dignissim. Etiam in sodales justo, in iaculis odio. Vestibulum accumsan felis vitae cursus pharetra. Nulla congue ipsum est, sed vulputate odio pulvinar id. Maecenas a sollicitudin turpis.&lt;/p&gt;
 </description>
 				<pubDate>Wed, 22 May 2013 16:25:06 -0700</pubDate>
-				<link>http://blog.minzhou.info//2013/05/Nulla-vel-risus-dapibus</link>
-				<guid isPermaLink="true">http://blog.minzhou.info//2013/05/Nulla-vel-risus-dapibus</guid>
+				<link>http://blog.minzhou.info/2013/05/Nulla-vel-risus-dapibus</link>
+				<guid isPermaLink="true">http://blog.minzhou.info/2013/05/Nulla-vel-risus-dapibus</guid>
 			</item>
 		
 			<item>
@@ -154,8 +154,8 @@ respective owners:&lt;/p&gt;
 &lt;p&gt;Curabitur venenatis neque eget odio tempor, vitae condimentum quam aliquam. Duis dui odio, auctor non ultricies nec, mollis nec elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed eget elit at nisl auctor egestas. Vivamus nec turpis feugiat, dapibus metus et, fermentum lacus. Curabitur at blandit diam, non rutrum nulla. Quisque eget fermentum libero, in bibendum diam. Vestibulum eget porta est, in scelerisque metus. Donec in elit aliquet sapien ultrices tincidunt.&lt;/p&gt;
 </description>
 				<pubDate>Tue, 22 May 2012 16:25:06 -0700</pubDate>
-				<link>http://blog.minzhou.info//2012/05/Vivamus-porttitor-porta-tortor</link>
-				<guid isPermaLink="true">http://blog.minzhou.info//2012/05/Vivamus-porttitor-porta-tortor</guid>
+				<link>http://blog.minzhou.info/2012/05/Vivamus-porttitor-porta-tortor</link>
+				<guid isPermaLink="true">http://blog.minzhou.info/2012/05/Vivamus-porttitor-porta-tortor</guid>
 			</item>
 		
 	</channel>
